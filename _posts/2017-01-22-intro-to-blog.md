@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Welcome To My Empty and Desolate Wasteland of a Blog!
+title: Welcome To My Desolate Wasteland of a Blog!
 description: "The first post ever."
 modified: 2017-01-22
 tags: [welcome post]
