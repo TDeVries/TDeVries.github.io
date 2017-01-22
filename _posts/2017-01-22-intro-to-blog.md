@@ -5,7 +5,7 @@ description: "The first post ever."
 modified: 2017-01-22
 tags: [welcome post]
 image:
-  feature: abstract-3.jpg
+  feature: abstract-10.jpg
   credit: dargadgetz
   creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
