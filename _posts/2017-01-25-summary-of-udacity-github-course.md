@@ -11,8 +11,7 @@ I recently worked my way through Udacity's [_How to Use Git and GitHub_](https:/
 _How to Use Git and GitHub_ provided a great overview on how Git and Github operate under the hood, introduced all of the Git commands that one would need in order to use Git proficiently, and most importantly, the course provides examples and quizzes so that you can get familiar with each of the new concepts as soon as they are introduced. What follows is a summary of the content from the course, but if you have the time the full course is certainly worth it! 
 
 
-Git Installation
-------
+## Git Installation
 Udacity provides instructions on how to install Git for different operating systems, which you can find [here](https://www.udacity.com/wiki/ud775/install-git).
 
 
@@ -123,7 +122,7 @@ The following are some useful commands which can be used to configure your Git s
 `git merge --abort`: Run this command if you get conflict errors when attempting to merge and want to cancel the process.
 
 #### Interfacing with Github
-Note 1: You will need to set up a repository on Github first before you will be able to push commits to it. 
+Note 1: You will need to set up a repository on Github first before you will be able to push commits to it.   
 Note 2: When you clone a repository on Github it will automatically set up a remote for you to pull/push to.   
 
 `git clone [URL/filepath]`: Make a copy of a repository from the specified URL or filepath. Copies all existing commit history.
