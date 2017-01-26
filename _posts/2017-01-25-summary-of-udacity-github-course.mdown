@@ -92,6 +92,7 @@ The following are some useful commands which can be used to configure your Git s
 `git reset [file_name]`: Removes a file from the staging area.
 `git reset --hard`: **WARNING** - Discards any changes in staging area or working directory. Not reversible.
 `git commit`: Commits files in staging area into repository.
+`git commit --amend`: Edit the commit message for the commit that is currently checked out.
 
 `git branch`: Displays all of the existing branches.
 `git branch [new_branch_name]`: Creates a new branch with the specified name, copied from the current branch.
