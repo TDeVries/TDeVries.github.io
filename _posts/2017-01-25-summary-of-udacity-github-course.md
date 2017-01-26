@@ -77,7 +77,8 @@ The following are some useful commands which can be used to configure your Git s
 
 
 ## Git Commands
-#### For displaying information
+
+#### For displaying information  
 `git log`: Displays all of the commits previously made.  
 
 `git log --graph --oneline [branch_name_1] [branch_name_2]`: Shows branch structure of repo, with each commit as one line to save space.
