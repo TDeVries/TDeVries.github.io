@@ -65,7 +65,7 @@ The following are some useful commands which can be used to configure your Git s
 
 `git config --global color.ui auto`: Enables coloured diff output.  
 
-`git config --global core.autocrlf true`: Prevents merge conflicts that may occur when working with files from Unix or Mac systems (they use a different newline character scheme) [Windows only].  
+`git config --global core.autocrlf true`: Prevents merge conflicts that may occur when working with files from Unix or Mac systems (they use a different newline character scheme).  
 
 `git config --system core.longpaths true`: Allows Windows to work with file path names that are longer than its limit [Windows only].  
 
