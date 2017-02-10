@@ -96,7 +96,7 @@ The following are some useful commands which can be used to configure your Git s
 
 `git add [file_name]`: Adds the specified file to the staging area.  
 
-`git status`:  Shows you all of the files that are currently in the staging srea, and all of the files that have not yet been committed. 
+`git status`:  Shows you all of the files that are currently in the staging area, and all of the files that have not yet been committed. 
 
 `git reset [file_name]`: Removes a file from the staging area.  
 
