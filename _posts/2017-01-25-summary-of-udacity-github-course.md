@@ -106,6 +106,8 @@ The following are some useful commands which can be used to configure your Git s
 
 `git commit --amend`: Edit the commit message for the commit that is currently checked out.
 
+`git commit -m ["Commit message in quotes"]`: Commits using the provided commit message instead of opening a text editor.
+
 `git checkout [commit_ID/branch_name]`: Reverts all files in repository to the state they were at when the specified commit was made.
 
 #### Regarding branches
