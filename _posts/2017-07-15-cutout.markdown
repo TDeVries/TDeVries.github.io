@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Improved Regularization of Convolutional Neural Networks with Cutout"
+date:   2017-07-15 15:21:53 +00:00
+image: /images/cutout.png
+categories: research
+author: "Terrance DeVries"
+authors: "<strong>Terrance DeVries</strong>, Graham W. Taylor"
+venue: "arXiv"
+arxiv: https://arxiv.org/abs/1708.04552
+code: https://github.com/uoguelph-mlrg/Cutout
+---
+Data augmentation by randomly masking out square regions of pixels.
