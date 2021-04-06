@@ -9,5 +9,6 @@ authors: "<strong>Terrance DeVries</strong>, Miguel Angel Bautista, Nitish Sriva
 venue: "arXiv"
 arxiv: https://arxiv.org/abs/2104.00670
 project_page: https://apple.github.io/ml-gsn/
+highlight: "true"
 ---
 Generative model for learning radiance fields of realistic scenes. Allows for generating 3D scenes and exploring them with a freely moving camera.
