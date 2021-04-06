@@ -9,3 +9,4 @@ authors: "<strong>Terrance DeVries</strong>*, Ishan Misra*, Changhan Wang*, Laur
 venue: "CVPR Workshop on Computer Vision for Global Challenges (CV4GC)"
 arxiv: https://arxiv.org/abs/1906.02659
 ---
+We find that publicly available object-recognition systems perform relatively poorly on household items in countries with a low household income.
