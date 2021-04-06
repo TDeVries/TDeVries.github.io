@@ -9,5 +9,6 @@ authors: "<strong>Terrance DeVries</strong>, Michal Drozdzal, Graham W. Taylor"
 venue: "NeurIPS"
 arxiv: https://arxiv.org/abs/2007.15255
 code: https://github.com/uoguelph-mlrg/instance_selection_for_gans
+highlight: "true"
 ---
 Removing outliers from the training set trades GAN sample diversity for higher quality samples, faster training, and reduced model capacity requirements.
