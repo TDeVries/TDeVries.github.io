@@ -6,7 +6,7 @@ image: /images/feature_augmentation.png
 categories: research
 author: "Terrance DeVries"
 authors: "<strong>Terrance DeVries</strong>, Graham W. Taylor"
-venue: "arXiv"
+venue: "ICLR Workshop"
 arxiv: https://arxiv.org/abs/1702.05538
 ---
 Datasets can be augmented by interpolating or extrapolating between datapoints in feature space to improve classification accuracy.
