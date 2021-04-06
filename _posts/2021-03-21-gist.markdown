@@ -7,6 +7,6 @@ categories: research
 author: "Terrance DeVries"
 authors: "Eu Wern Teh, <strong>Terrance DeVries</strong>, Brendan Duke, Ruowei Jiang, Parham Aarabi, Graham W. Taylor"
 venue: "arXiv"
-https://arxiv.org/abs/2103.17105
+arxiv: https://arxiv.org/abs/2103.17105
 ---
 Alternating between training on human labeled data and psuedo-labeled data stabilizes iterative self-training, enabling significant improvement in semi-supervised segmentation quality.
