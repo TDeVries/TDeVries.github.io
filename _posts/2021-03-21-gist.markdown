@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "The GIST and RIST of Iterative Self-Training for Semi-Supervised Segmentation"
+date:   2021-03-21 14:20:37 +00:00
+image: /images/gist.png
+categories: research
+author: "Terrance DeVries"
+authors: "Eu Wern Teh, <strong>Terrance DeVries</strong>, Brendan Duke, Ruowei Jiang, Parham Aarabi, Graham W. Taylor"
+venue: "arXiv"
+https://arxiv.org/abs/2103.17105
+---
+Alternating between training on human labeled data and psuedo-labeled data stabilizes iterative self-training, enabling significant improvement in semi-supervised segmentation quality.
