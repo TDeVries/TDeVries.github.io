@@ -10,4 +10,4 @@ venue: "arXiv"
 arxiv: https://arxiv.org/abs/1708.04552
 code: https://github.com/uoguelph-mlrg/Cutout
 ---
-Data augmentation by randomly masking square regions of pixels.
+Randomly masking square regions of pixels from training images is an effective form of data augmentation.

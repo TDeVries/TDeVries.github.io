@@ -10,4 +10,4 @@ venue: "NeurIPS ML4Eng Workshop"
 arxiv: https://arxiv.org/abs/2012.11543
 code: https://github.com/uoguelph-mlrg/GenerativeLEGO
 ---
-Generative model for sequential assembly, demonstrated by building LEGO structure piece-by-piece.
+Generative model for sequential assembly, demonstrated by building LEGO structures piece-by-piece.
