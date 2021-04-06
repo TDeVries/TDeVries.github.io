@@ -9,4 +9,4 @@ authors: "<strong>Terrance DeVries</strong>, Graham W. Taylor"
 venue: "arXiv"
 arxiv: https://arxiv.org/abs/1807.00502
 ---
-Uncertainty estimates from a segmentation network can be used to predict the quality of the segmentations.
+Uncertainty estimates from segmentation networks can be used to predict the quality of the segmentations.

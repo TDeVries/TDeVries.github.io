@@ -10,4 +10,4 @@ venue: "arXiv"
 arxiv: https://arxiv.org/abs/1802.04865
 code: https://github.com/uoguelph-mlrg/confidence_estimation
 ---
-Training a confidence estimation branch on classification networks can enable identification of out-of-distribution examples.
+Training a confidence estimation branch on classification networks enables identification of out-of-distribution examples.
