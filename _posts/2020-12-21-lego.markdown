@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Building LEGO Using Deep Generative Models of Graphs"
+date:   2020-12-21 18:24:40 +00:00
+image: /images/lego.png
+categories: research
+author: "Terrance DeVries"
+authors: "Rylee Thompson, Elahe Ghalebi, <strong>Terrance DeVries</strong>, Graham W. Taylor"
+venue: "NeurIPS ML4Eng Workshop"
+arxiv: https://arxiv.org/abs/2012.11543
+code: https://github.com/uoguelph-mlrg/GenerativeLEGO
+---
+Generative model for sequential assembly, demonstrated by building LEGO structure piece-by-piece.
