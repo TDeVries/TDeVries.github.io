@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "ProxyNCA++: Revisiting and Revitalizing Proxy Neighborhood Component Analysis"
+date:   2020-04-02 16:24:30 +00:00
+image: /images/proxynca++.png
+categories: research
+author: "Terrance DeVries"
+authors: "Eu Wern Teh, <strong>Terrance DeVries</strong>, Graham W. Taylor"
+venue: "ECCV"
+arxiv: https://arxiv.org/abs/2004.01113
+code: https://github.com/euwern/proxynca_pp
+---
+ProxyNCA surpasses state-of-the-art metric learning methods when updated with a bag of tricks.
