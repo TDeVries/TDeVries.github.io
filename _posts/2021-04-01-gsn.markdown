@@ -5,7 +5,7 @@ date:   2021-04-01 17:58:26 +00:00
 image: /images/gsn.png
 categories: research
 author: "Terrance DeVries"
-authors: "<strong>Terrance DeVries</strong>, <a href="https://miguelbautista.github.io/">Miguel Angel Bautista</a>, <a href="https://scholar.google.com/citations?user=s1PgoeUAAAAJ&hl">Nitish Srivastava</a>, <a href="https://www.gwtaylor.ca/">Graham W. Taylor</a>, <a href="https://scholar.google.ca/citations?user=Sv2TGqsAAAAJ&hl">Joshua M. Susskind</a>"
+authors: "<strong>Terrance DeVries</strong>, Miguel Angel Bautista, Nitish Srivastava, Graham W. Taylor, Joshua M. Susskind"
 venue: "arXiv"
 arxiv: https://arxiv.org/abs/2104.00670
 project_page: https://apple.github.io/ml-gsn/

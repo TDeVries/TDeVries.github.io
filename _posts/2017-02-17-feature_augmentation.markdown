@@ -5,7 +5,7 @@ date:   2017-02-17 23:13:15 +00:00
 image: /images/feature_augmentation.png
 categories: research
 author: "Terrance DeVries"
-authors: "<strong>Terrance DeVries</strong>, <a href="https://www.gwtaylor.ca/">Graham W. Taylor</a>"
+authors: "<strong>Terrance DeVries</strong>, Graham W. Taylor"
 venue: "ICLR Workshop"
 arxiv: https://arxiv.org/abs/1702.05538
 ---

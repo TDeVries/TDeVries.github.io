@@ -5,7 +5,7 @@ date:   2020-04-02 16:24:30 +00:00
 image: /images/proxynca++.png
 categories: research
 author: "Terrance DeVries"
-authors: "<a href="http://www.euwern.com/">Eu Wern Teh</a>, <strong>Terrance DeVries</strong>,  <a href="https://www.gwtaylor.ca/">Graham W. Taylor</a>"
+authors: "Eu Wern Teh, <strong>Terrance DeVries</strong>, Graham W. Taylor"
 venue: "ECCV"
 arxiv: https://arxiv.org/abs/2004.01113
 code: https://github.com/euwern/proxynca_pp
