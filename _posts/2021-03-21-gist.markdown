@@ -5,7 +5,7 @@ date:   2021-03-21 14:20:37 +00:00
 image: /images/gist.png
 categories: research
 author: "Terrance DeVries"
-authors: "Eu Wern Teh, <strong>Terrance DeVries</strong>, Brendan Duke, Ruowei Jiang, Parham Aarabi, Graham W. Taylor"
+authors: "<a href="http://www.euwern.com/">Eu Wern Teh</a>, <strong>Terrance DeVries</strong>, <a href="https://scholar.google.com/citations?user=Gd2IGrEAAAAJ&hl">Brendan Duke</a>, <a href="https://ca.linkedin.com/in/ruowei-irene-jiang-a1743576">Ruowei Jiang</a>, <a href="http://p.arh.am/">Parham Aarabi</a>, <a href="https://www.gwtaylor.ca/">Graham W. Taylor</a>"
 venue: "arXiv"
 arxiv: https://arxiv.org/abs/2103.17105
 ---

@@ -5,7 +5,7 @@ date:   2017-07-15 15:21:53 +00:00
 image: /images/cutout.png
 categories: research
 author: "Terrance DeVries"
-authors: "<strong>Terrance DeVries</strong>, Graham W. Taylor"
+authors: "<strong>Terrance DeVries</strong>, <a href="https://www.gwtaylor.ca/">Graham W. Taylor</a>"
 venue: "arXiv"
 arxiv: https://arxiv.org/abs/1708.04552
 code: https://github.com/uoguelph-mlrg/Cutout

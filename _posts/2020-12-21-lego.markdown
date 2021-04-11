@@ -5,7 +5,7 @@ date:   2020-12-21 18:24:40 +00:00
 image: /images/lego.png
 categories: research
 author: "Terrance DeVries"
-authors: "Rylee Thompson, Elahe Ghalebi, <strong>Terrance DeVries</strong>, Graham W. Taylor"
+authors: "<a href="https://ca.linkedin.com/in/rylee-thompson">Rylee Thompson</a>,<a href="https://scholar.google.com/citations?user=h5ZwVzcAAAAJ&hl=en">Elahe Ghalebi</a>, <strong>Terrance DeVries</strong>,  <a href="https://www.gwtaylor.ca/">Graham W. Taylor</a>"
 venue: "NeurIPS ML4Eng Workshop"
 arxiv: https://arxiv.org/abs/2012.11543
 code: https://github.com/uoguelph-mlrg/GenerativeLEGO
