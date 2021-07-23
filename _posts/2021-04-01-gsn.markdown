@@ -6,7 +6,7 @@ image: /images/gsn.png
 categories: research
 author: "Terrance DeVries"
 authors: "<strong>Terrance DeVries</strong>, Miguel Angel Bautista, Nitish Srivastava, Graham W. Taylor, Joshua M. Susskind"
-venue: "arXiv"
+venue: "ICCV"
 arxiv: https://arxiv.org/abs/2104.00670
 project_page: https://apple.github.io/ml-gsn/
 highlight: "true"
